@@ -1,0 +1,141 @@
+body
+{
+	background-color:#E6E6E6 !important;
+
+}
+.FlexContainer
+{
+	/*display: flex;*/
+	background-color:#FF7F50;
+	/*flex-direction: column;*/
+	/*border: 2px solid #ffffff;*/
+	/*border-radius: 30px;*/
+	color: #ffffff;
+	text-align: justify; /* For Edge */
+	
+	padding-bottom: 10px;
+	padding-top:18px;
+	font-weight: bold; 
+	font-size :20px;
+	font-family: serif;
+}
+.singleImage
+{
+	padding-top:18px;
+	padding-bottom: 10px;
+}
+
+.Container
+{
+	display: flex;
+	background-color:#FF7F50;
+	flex-direction: row;
+	/*flex-grow: 100px;*/
+	padding-right: 600px;
+	padding-bottom: 23px;
+	padding-top:7px;
+	 width: 100%;
+	/*flex-wrap: wrap;*/
+ }
+.items1
+{
+	background-color:red !important;
+}
+.BodyText
+{
+	color: black;
+	background-color:#E6E6E6 !important;
+	padding: 5px;
+}
+.Experience
+{
+	/*border: 2px Solid #FF7F50;
+	border-left-color:#E6E6E6;
+	border-top-color:#E6E6E6;*/
+}
+.Text1
+{
+	border: 2px Solid #FF7F50;
+	border-width: 0px 2px 0px 0px;
+	/*border-right-color:#FF7F50;*/
+}
+.Box1
+{
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.Box
+{
+	border: 2px Solid #FF7F50 !important;
+	/*border-width: px 0px 2px 2px !important;*/
+	/*border-right-color:#FF7F50;*/
+}
+p
+{
+	background-color: #FF7F50;
+}
+img
+{
+	width:191px !important;
+	height:191px !important;
+	display: block;
+  margin-left: 100px;
+  margin-right: 100px;
+  border: 3px Solid #ffffff;
+ border-radius: 50%;
+}
+.containerBar
+{
+	height: 10px;
+  background: #FF7F50;
+  border-radius: 50px; 
+  width: 90%;
+}
+.containerBar1
+{
+	height: 10px;
+  background: #FF7F50;
+  border-radius: 50px; 
+  width: 70%;
+}
+.containerBar2
+{
+	height: 10px;
+  background: #FF7F50;
+  border-radius: 50px; 
+  width: 60%;
+}
+.containerBar3
+{
+	height: 10px;
+  background: #FF7F50;
+  border-radius: 50px; 
+  width: 40%;
+}
+.containerBar4
+{
+	height: 10px;
+  background: #FF7F50;
+  border-radius: 50px; 
+  width: 50%;
+}
+.containerBar5
+{
+	height: 10px;
+  background: #FF7F50;
+  border-radius: 50px; 
+  width: 70%;
+}.containerBar6
+{
+	height: 10px;
+  background: #FF7F50;
+  border-radius: 50px; 
+  width: 60%;
+}
+
+.Title
+{
+	color: #FF7F50;
+	text-transform:uppercase;
+	font-size: 18px;
+}
